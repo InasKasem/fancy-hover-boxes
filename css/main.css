@@ -51,3 +51,4 @@ section {
 .hover-box:focus img {
   filter: grayscale(0);
   transform: scale(1.1);
+}
